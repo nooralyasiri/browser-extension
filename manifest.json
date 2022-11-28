@@ -1,0 +1,13 @@
+{
+  "name": "iME browser extension",
+  "version": "1.0",
+  "description": "iME: notes, tasks, todo",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html", 
+    "default_icon": {
+      "16": "img/11.jpg"
+    }
+  },
+  "manifest_version": 2
+}
