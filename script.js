@@ -19,6 +19,7 @@ function fetchCatImage(){
 function btnClick(){
   let button = document.getElementById("new-cat-btn")
   button.addEventListener("click", fetchCatImage)
+  button.addEventListener("click", fetchCatImage)
 }
 
 document.addEventListener("DOMContentLoaded", () => {
