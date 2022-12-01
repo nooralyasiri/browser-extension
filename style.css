@@ -1,0 +1,33 @@
+h2 {
+  color: black;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  text-align: center;
+ 
+}
+
+body {
+  width: 600px;
+  height: 400px;
+  background-color: #FFF8FD;
+  
+}
+
+#rounded-box {
+  border-radius: 50px;
+  align-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -40%);
+}
+
+
+#new-cat-btn{
+  border-radius: 30px;
+  align-content: center;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
